@@ -103,5 +103,9 @@ public class Article {
 		this.content = content;
 	}
 
+	public Long getId() {
+		return id;
+	}
+
     // Getters and Setters
 }
